@@ -4,12 +4,6 @@
 
 This project implements the classic WordCount example using **Hadoop MapReduce**, demonstrating the core principles of distributed data processing. The goal is to count the occurrences of each word within a collection of text documents stored in the Hadoop Distributed File System (HDFS). This assignment fulfills the requirements for the "Big Data with Hadoop MapReduce" activity in Week 10.
 
-**Assignment Details:**
-- **Week:** 10 (July 7-13, 2025)
-- **Value:** 5 points
-- **Modality:** Individual
-- **Due Date:** July 13, 2025, 11:59 PM
-
 ---
 
 ## Objectives
